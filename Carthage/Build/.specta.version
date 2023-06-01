@@ -1,0 +1,24 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "9a4f6265433548bae2f5e68f97b84892df2dd46c",
+  "iOS" : [
+    {
+      "name" : "Specta",
+      "hash" : "6e70b346252a50c578ba653356cf5685dd15cbbcd21c60468bb8e4a0e61a226d",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "Specta",
+      "hash" : "6e70b346252a50c578ba653356cf5685dd15cbbcd21c60468bb8e4a0e61a226d",
+      "linking" : "dynamic"
+    }
+  ]
+}
